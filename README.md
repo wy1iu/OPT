@@ -19,7 +19,7 @@ By maintaining the minimum hyperspherical energy during training, OPT can greatl
 
 **Our OPT is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/) as oral presentation and the full paper is available on [arXiv](https://arxiv.org/abs/2004.04690) and [here](https://wyliu.com/papers/LiuOPT2021_v6.pdf).**
 
-<img src="assets/opt_paradigm.png" width="50%" height="50%">
+<img src="assets/opt_paradigm.png" width="60%" height="60%">
 
 ### Citation
 If you find our work useful in your research, please consider to cite:
