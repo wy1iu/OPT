@@ -85,6 +85,12 @@ python train.py
 ```
 
 ```Shell
+# Run Orthogonality Regularization OPT
+cd opt_or
+python train.py
+```
+
+```Shell
 # Run Stochastic OPT (Gram-Schmidt)
 cd sopt_gs
 python train.py
